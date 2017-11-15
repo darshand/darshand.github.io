@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+FOSS enthusiast, Ruby programmer, Love building REST APIs, Experienced in PostgreSQL, PostGIS and pgRouting, Intereseted in playing with GEO/MAP data.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Weekdays : Earphone + Keyboard + Coffee
+Weekends : Earphone + Bike + Camera
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dharshandj@gmail.com](mailto:dharshandj@gmail.com)
